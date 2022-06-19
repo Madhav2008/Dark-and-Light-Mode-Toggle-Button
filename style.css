@@ -14,5 +14,5 @@ body {
 }
 
 #toggle {
-    position: relative;
+    position: relative;display: block;
 }
