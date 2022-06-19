@@ -27,5 +27,5 @@ body {
 }
 
 #toggle .indicator {
-    position: absolute;
+    position: absolute;top: 0;
 }
