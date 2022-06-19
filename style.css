@@ -26,4 +26,6 @@ body {
         inset 0 -4px 4px rgba(0, 0, 0, 0.1),
 }
 
-#toggle .indicator {position: absolute;}
+#toggle .indicator {
+    position: absolute;
+}
