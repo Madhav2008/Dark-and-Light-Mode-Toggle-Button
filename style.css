@@ -13,4 +13,6 @@ body {
     transition: 0.5s;
 }
 
-#toggle {position: relative;}
+#toggle {
+    position: relative;
+}
