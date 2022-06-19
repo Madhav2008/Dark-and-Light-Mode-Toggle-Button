@@ -19,5 +19,6 @@ body {
     width: 320px;
     height: 160px;
     border-radius: 160px;
-    background: #222;transition: 0.5s;
+    background: #222;
+    transition: 0.5s;
 }
