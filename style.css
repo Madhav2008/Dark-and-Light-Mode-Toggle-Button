@@ -33,5 +33,5 @@ body {
     width: 160px;
     height: 160px;
     background: linear-gradient(to bottom, #444, #222);
-    border-radius: 50%;
+    border-radius: 50%;transform: scale(0.9);
 }
