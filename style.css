@@ -16,5 +16,5 @@ body {
 #toggle {
     position: relative;
     display: block;
-    width: 320px;
+    width: 320px;height: 160px;
 }
