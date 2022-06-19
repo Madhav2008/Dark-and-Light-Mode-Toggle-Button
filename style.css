@@ -10,7 +10,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: #2b2b2b;
-    /* transition: 0.5s; */
+    transition: 0.5s;
 }
 
 body.active {
