@@ -42,4 +42,4 @@ body {
     transition: 0.5s;
 }
 
-#toggle.active .indicator
+#toggle.active .indicator{}
