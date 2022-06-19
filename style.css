@@ -43,5 +43,5 @@ body {
 }
 
 #toggle.active .indicator {
-    left: 1;
+    left: 160px;
 }
