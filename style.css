@@ -13,7 +13,9 @@ body {
     /* transition: 0.5s; */
 }
 
-body.active {} #toggle {
+body.active {}
+
+#toggle {
     position: relative;
     display: block;
     width: 320px;
