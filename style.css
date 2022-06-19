@@ -21,5 +21,5 @@ body {
     border-radius: 160px;
     background: #222;
     transition: 0.5s;
-    box-shadow: ;
+    box-shadow: inset;
 }
