@@ -13,7 +13,7 @@ body {
     /* transition: 0.5s; */
 }
 
-body.active {}
+body.active {background: #f8f8f8;}
 
 #toggle {
     position: relative;
